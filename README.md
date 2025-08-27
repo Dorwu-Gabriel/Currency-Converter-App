@@ -4,7 +4,7 @@
 
 <p align="left">
   <img src="./src/assets/logo.png" alt="Logo" width="50"/>
-  <strong style="font-size:20px;"># CURRENCY CONVERTER APP</strong>
+  <strong style="font-size:50px;"> CURRENCY CONVERTER APP</strong>
 </p>
   A responsive web application that enables users to convert between various currencies in real-time using live exchange rate data from a public API.
   Built with React, Zustand for state management, and Tailwind CSS for styling. Deployed on Vercel.
