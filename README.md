@@ -1,4 +1,3 @@
-# ALX Capstone Project Documentation
 **Project Name:** Currency Converter App  
 **Author:** Dorwu Gabriel  
 **Date:** August 2025
