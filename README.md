@@ -2,8 +2,9 @@
 **Author:** Dorwu Gabriel  
 **Date:** August 2025
 
-![Logo](./src/assets/logo.png)
- # CURRENCY CONVERTER APP 
+<img src="./src/assets/logo.png" alt="Logo" width="25"/>
+<h1 style="display:inline; font-size:2rem; font-weight:bold; margin-left:8px;"># CURRENCY CONVERTER APP</h1>
+
   
   A responsive web application that enables users to convert between various currencies in real-time using live exchange rate data from a public API.
   
