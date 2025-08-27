@@ -61,7 +61,7 @@ The Currency Converter App allows users to:
 ### Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/currency-converter-app.git
+   git clone https://github.com/Dorwu-Gabriel/currency-converter-app.git
    cd currency-converter-app
    ```
 2. Install dependencies
