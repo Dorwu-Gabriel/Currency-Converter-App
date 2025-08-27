@@ -13,7 +13,7 @@
 
 ---
 
-## 🎥 Demo
+## Demo
 
 ### Live Demo
 [![Live Demo](https://img.shields.io/badge/View-Live%20Demo-green?style=for-the-badge)](https://your-vercel-app-url.vercel.app)
@@ -21,7 +21,7 @@
 ### App in Action
 ![Currency Converter Demo](./src/assets/CurrencyApp-Demo.gif)
 
-## 📸 Screenshots
+## Screenshots
 
 ### Light Theme
 ![Light Theme Screenshot](./src/assets/CurrencyApp-Light-Theme.png)
@@ -29,7 +29,7 @@
 ### Dark Theme
 ![Dark Theme Screenshot](./src/assets/CurrencyApp-Dark-Theme.png)
 
-## 📌 Project Overview
+## Project Overview
 The Currency Converter App allows users to:
 - Select source and target currencies from a comprehensive list
 - Enter any amount for conversion
@@ -38,14 +38,14 @@ The Currency Converter App allows users to:
 - View conversion history
 - Access the app on any device
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend:** React
 - **State Management:** Zustand
 - **Styling:** Tailwind CSS
 - **API:** ExchangeRate-API
 - **Deployment:** Vercel
 
-## 🚀 Features
+## Features
 - Real-time currency conversion
 - Swap currencies with a single click
 - Dark/Light mode toggle
@@ -53,7 +53,7 @@ The Currency Converter App allows users to:
 - Clean and intuitive user interface
 - Quick access to popular currency pairs
 
-## 🏗️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v14 or later)
@@ -82,20 +82,20 @@ The Currency Converter App allows users to:
    yarn dev
    ```
 
-## 📝 License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 - [ExchangeRate-API](https://www.exchangerate-api.com/) for the currency data
 - [React Icons](https://react-icons.github.io/react-icons/) for the beautiful icons
 - [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
-# ✨ Features
+# Features
 •	Real-time currency conversion
 •	Responsive design
 •	State management with Zustand
 •	Error handling for invalid inputs/network issues
 
-# 📦 Installation & Setup
+# Installation & Setup
 git clone https://github.com/yourusername/Currency-Converter-App.git
 cd Currency-Converter-App
 npm install
@@ -105,11 +105,11 @@ VITE_EXCHANGE_RATE_API_KEY=your_api_key_here
 
 npm run dev
 
-# 🔗 API Integration
+# API Integration
 Endpoint:
 https://v6.exchangerate-api.com/v6/YOUR_API_KEY/latest/USD
 
-# 📂 Project Structure
+# Project Structure
 Currency-Converter-App/
 │
 ├── public/                 # Static assets
@@ -140,23 +140,22 @@ Currency-Converter-App/
 ├── vite.config.js          # Vite configuration
 └── README.md               # Project documentation
 
-# 🌐 Deployment
+# Deployment
 npm run build
 vercel
 Ensure environment variables are set in Vercel.
 
-# 🔮 Future Improvements
+# Future Improvements
 •	Historical exchange rate charts
 •	Dark mode
 •	Offline mode with cached rates
 •	Multi-language support
 
-# 📜 License
+# License
 MIT License
 
-# 🙏 Acknowledgements
+# Acknowledgements
 •	ExchangeRate-API
 •	Tailwind CSS
 •	Zustand
-# Currency-Converter-App
 # Currency-Converter-App
