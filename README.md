@@ -16,7 +16,7 @@
 ## Demo
 
 ### Live Demo
-[![Live Demo](https://img.shields.io/badge/View-Live%20Demo-green?style=for-the-badge)](https://your-vercel-app-url.vercel.app)
+[![Live Demo](https://img.shields.io/badge/View-Live%20Demo-green?style=for-the-badge)](https://currency-converter-app-57lk.vercel.app/)
 
 ### App in Action
 ![Currency Converter Demo](./src/assets/CurrencyApp-Demo.gif)
