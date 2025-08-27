@@ -2,12 +2,12 @@
 **Author:** Dorwu Gabriel  
 **Date:** August 2025
 
-<img src="./src/assets/logo.png" alt="Logo" width="25"/>
-<h1 style="display:inline; font-size:2rem; font-weight:bold; margin-left:8px;"># CURRENCY CONVERTER APP</h1>
+<div class="flex items-center space-x-2">
+  <img src="./src/assets/logo.png" alt="Logo" width="25"/>
+  <h1 class="text-2xl font-bold">CURRENCY CONVERTER APP</h1>
+</div>
 
-  
   A responsive web application that enables users to convert between various currencies in real-time using live exchange rate data from a public API.
-  
   Built with React, Zustand for state management, and Tailwind CSS for styling. Deployed on Vercel.
 
 
